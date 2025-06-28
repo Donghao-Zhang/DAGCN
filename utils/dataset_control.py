@@ -1,0 +1,4 @@
+# DATASET_CONTROLLER = 'tacred'
+DATASET_CONTROLLER = 'semeval'
+# ENTITY_MASK = True
+ENTITY_MASK = False
